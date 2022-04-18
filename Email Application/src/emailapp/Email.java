@@ -7,7 +7,7 @@ public class Email {
 	private String firstName;
 	private String lastName;
 	private String password;
-	private String department;
+	private String department; 
 	private String alternateEmail;
 	private String email;
 	private int mailboxCapacity;
